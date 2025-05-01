@@ -1,6 +1,6 @@
 # AI Practical Repository
 
-This repository contains Python implementations of various practicals for the **Data Science and Big Data Analytics (DSBD)** course.
+This repository contains Python implementations of various practicals for the **AI** course.
 
 
 ### Files and Folders:
